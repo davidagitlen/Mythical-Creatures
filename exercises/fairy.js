@@ -32,6 +32,7 @@ class Fairy{
 			this.disposition = 'Good natured';
 		}
 	}
-}			
+}		
+
 
 module.exports = Fairy; 
